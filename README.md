@@ -1,0 +1,4 @@
+frontpage
+=========
+
+Automatic Headline Generation
